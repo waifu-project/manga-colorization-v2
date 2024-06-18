@@ -6,3 +6,6 @@ __pycache__/
 temp_colorization/
 
 static/temp_images/
+
+!networks/generator.zip
+!denoising/models/net_rgb.pth
